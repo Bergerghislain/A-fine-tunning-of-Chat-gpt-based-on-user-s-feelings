@@ -26,9 +26,12 @@ wandb
 ## Potential Applications
 This fine-tuned model has several potential applications:
 
-## Content Generation: Generating engaging and relevant social media content for campaigns related to mental health or personal expression.
-## Sentiment Analysis: Analyzing the sentiment of #JeudiConfession tweets to gain insights into public opinion and emotions on various topics.
-## Chatbot Development: Creating a chatbot capable of understanding and responding to users in a natural and empathetic way, particularly in contexts related to confessions or personal struggles.
+## Content Generation:
+Generating engaging and relevant social media content for campaigns related to mental health or personal expression.
+## Sentiment Analysis:
+Analyzing the sentiment of #JeudiConfession tweets to gain insights into public opinion and emotions on various topics.
+## Chatbot Development:
+Creating a chatbot capable of understanding and responding to users in a natural and empathetic way, particularly in contexts related to confessions or personal struggles.
 ## Conclusion
 This project highlights the power of fine-tuning language models on domain-specific datasets. The resulting model has demonstrated its ability to generate high-quality text within the context of #JeudiConfession tweets, opening up possibilities for various applications in the fields of data science and natural language processing.
 
